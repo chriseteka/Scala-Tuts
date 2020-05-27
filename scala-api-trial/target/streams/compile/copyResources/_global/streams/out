@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\conf\application.conf,C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\conf\generated.keystore,C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\target\scala-2.13\classes\generated.keystore)
+[debug] 	(C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\conf\logback.xml,C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\conf\routes,C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\target\scala-2.13\classes\routes)
+[debug] 	(C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\conf\secure.conf,C:\Users\Chris_Eteka\Documents\SCALA PROJECTS\scala-api-trial\target\scala-2.13\classes\secure.conf)

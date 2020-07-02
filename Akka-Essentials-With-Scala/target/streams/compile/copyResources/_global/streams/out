@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\src\main\resources\application.conf,C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\target\scala-2.12\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\src\main\resources\json\jsonConfig.json,C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\target\scala-2.12\classes\json\jsonConfig.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\src\main\resources\Props\propsConfig.properties,C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\target\scala-2.12\classes\Props\propsConfig.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\src\main\resources\Secret\SecretConfiguration.conf,C:\Users\Chris_Eteka\Documents\Akka-Essentials-With-Scala\target\scala-2.12\classes\Secret\SecretConfiguration.conf)[0m

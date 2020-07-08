@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9373930f-4566-4bfd-9c23-e50b0a0a62f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part5infra/SchedulersAndTimers.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testfiles/important.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testfiles/important-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/part4faulttolerance/BackOffSupervisorPattern.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part4faulttolerance/BackOffSupervisorPattern.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/META-INF/Akka-Essentials-With-Scala.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$FileBasedPersistenceActor$$anonfun$receive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$FileBasedPersistenceActor$$anonfun$receive$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$FileBasedPersistenceActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$FileBasedPersistenceActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$ReadFile$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$ReadFile$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern$delayedInit$body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/part4faulttolerance/BackOffSupervisorPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/testfiles/important.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../attendance-system-scala" beforeDir="false" afterPath="$PROJECT_DIR$/../attendance-system-scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala-at-light-speed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-the-big-picture" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-the-big-picture" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,7 +59,7 @@
     <favorites_list name="Akka-Essentials-With-Scala" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,45 +128,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Akka-Essentials-With-Scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Akka-Essentials-With-Scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Akka-Essentials-With-Scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Akka-Essentials-With-Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Akka-Essentials-With-Scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Akka-Essentials-With-Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Akka-Essentials-With-Scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Akka-Essentials-With-Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Akka-Essentials-With-Scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Akka-Essentials-With-Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="part2Actors" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,6 +313,7 @@
       <workItem from="1593618676310" duration="9130000" />
       <workItem from="1593758971670" duration="4462000" />
       <workItem from="1593890365196" duration="5795000" />
+      <workItem from="1594195150917" duration="401000" />
     </task>
     <servers />
   </component>
@@ -399,7 +350,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133216000" />
+    <option name="totallyTimeSpent" value="133617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,7 +362,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info content_ui="combo" x="516" y="88" width="333" height="592" id="Project" order="0" type="SLIDING" weight="0.25458714" />
       <window_info auto_hide="true" id="Structure" order="1" side_tool="true" type="SLIDING" weight="0.25" />
@@ -431,7 +382,7 @@
       <window_info anchor="bottom" auto_hide="true" id="TODO" order="7" type="SLIDING" weight="0.3293919" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.3293919" />
       <window_info anchor="bottom" auto_hide="true" id="sbt-shell-toolwindow" order="9" type="SLIDING" weight="0.375" />
-      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="10" type="SLIDING" weight="0.44425675" />
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="10" type="SLIDING" weight="0.7461929" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3293919" />
       <window_info anchor="bottom" id="Messages" order="13" type="SLIDING" weight="0.3293919" />

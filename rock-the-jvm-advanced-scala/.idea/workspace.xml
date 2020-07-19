@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764ca379-d169-4c93-a758-2b3591948a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MySet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part1advancedscala/AdvancedPatternMatching.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part1advancedscala/DarkSugars.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part1advancedscala/Recap.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2AFP/PartialFunctions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/MyStreamTrial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2AFP/CurriesAndPAF.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2AFP/LazyEvaluation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2AFP/Monads.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../attendance-system-scala" beforeDir="false" afterPath="$PROJECT_DIR$/../attendance-system-scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-advanced-scala/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-advanced-scala/playground/ScalaPlayground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-advanced-scala/playground/ScalaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rock-the-jvm-advanced-scala/playground/ScalaPlayground.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-at-light-speed" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-at-light-speed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-the-big-picture" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-the-big-picture" afterDir="false" />
     </list>
@@ -23,28 +18,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rock-the-jvm-advanced-scala" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/MySet.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2178">
-              <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-              <folding>
-                <element signature="e#19#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/playground/ScalaPlayground.scala">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2AFP/Monads.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="334">
+              <caret line="112" column="32" lean-forward="true" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -71,8 +71,19 @@
         <option value="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2AFP/PartialFunctions.scala" />
         <option value="$PROJECT_DIR$/src/exercises/MySet.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2AFP/CurriesAndPAF.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2AFP/LazyEvaluation.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/MyStreamTrial.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2AFP/Modas.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2AFP/Monads.scala" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -88,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,12 +116,6 @@
               <item name="rock-the-jvm-advanced-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="rock-the-jvm-advanced-scala" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rock-the-jvm-advanced-scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm-advanced-scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -121,16 +125,11 @@
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
               <item name="part2AFP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rock-the-jvm-advanced-scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rock-the-jvm-advanced-scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,7 +138,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SPRING PROJECTS/inventory-system-backend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -156,13 +155,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MySetPlayGround">
-    <configuration name="AdvancedPatternMatching" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1advancedscala.AdvancedPatternMatching" />
+  <component name="RunManager" selected="Application.Monads">
+    <configuration name="CurriesAndPAF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2AFP.CurriesAndPAF" />
       <module name="rock-the-jvm-advanced-scala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1advancedscala.*" />
+          <option name="PATTERN" value="lectures.part2AFP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +169,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DarkSugars" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1advancedscala.DarkSugars" />
+    <configuration name="LazyEvaluation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2AFP.LazyEvaluation" />
       <module name="rock-the-jvm-advanced-scala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1advancedscala.*" />
+          <option name="PATTERN" value="lectures.part2AFP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monads" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2AFP.Monads" />
+      <module name="rock-the-jvm-advanced-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2AFP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,25 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartialFunctions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2AFP.PartialFunctions" />
+    <configuration name="MyStreamTrial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.MyStreamTrial" />
       <module name="rock-the-jvm-advanced-scala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part2AFP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.ScalaPlayground" />
-      <module name="rock-the-jvm-advanced-scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Monads" />
+        <item itemvalue="Application.MyStreamTrial" />
+        <item itemvalue="Application.LazyEvaluation" />
+        <item itemvalue="Application.CurriesAndPAF" />
         <item itemvalue="Application.MySetPlayGround" />
-        <item itemvalue="Application.PartialFunctions" />
-        <item itemvalue="Application.ScalaPlayground" />
-        <item itemvalue="Application.AdvancedPatternMatching" />
-        <item itemvalue="Application.DarkSugars" />
       </list>
     </recent_temporary>
   </component>
@@ -257,24 +256,25 @@
       <workItem from="1594195591518" duration="11785000" />
       <workItem from="1594373376663" duration="4533000" />
       <workItem from="1594381447237" duration="13936000" />
-      <workItem from="1594887146177" duration="848000" />
+      <workItem from="1594887146177" duration="19188000" />
+      <workItem from="1594987138759" duration="23708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31102000" />
+    <option name="totallyTimeSpent" value="73150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26605505" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.18501529" />
+      <window_info id="Structure" order="1" sideWeight="0.500846" side_tool="true" weight="0.18501529" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.500846" side_tool="true" weight="0.18501529" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -283,26 +283,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43485618" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32994923" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32994923" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295107" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Codota" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295107" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lectures/part1advancedscala/Recap.scala">
@@ -347,20 +351,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/MySet.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-          <folding>
-            <element signature="e#19#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/playground/ScalaPlayground.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2AFP/CurriesAndPAF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/MyStreamTrial.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2812">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#1997#2082#0" />
+            <element signature="e#2481#2734#0" />
+            <element signature="e#4888#5107#0" />
+            <element signature="e#5290#5536#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2AFP/LazyEvaluation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/MySet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
+          <folding>
+            <element signature="e#19#50#0" expanded="true" />
+            <element signature="e#1012#1642#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2AFP/Monads.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="112" column="32" lean-forward="true" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="32" />
         </state>
       </provider>
     </entry>
